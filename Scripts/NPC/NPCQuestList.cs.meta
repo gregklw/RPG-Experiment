@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fa28fda73909c664b86b7c84488e3aca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - questButtonPrefab: {fileID: 6167946930223175429, guid: 9fb0949a8beeabb46a1b6c5c466395b1,
+      type: 3}
+  - questPanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
